@@ -289,15 +289,15 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkannan007&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkannan007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -307,7 +307,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan007&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
