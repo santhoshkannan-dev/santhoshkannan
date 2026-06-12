@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/santhoshkannan007">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
