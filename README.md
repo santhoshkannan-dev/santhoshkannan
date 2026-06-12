@@ -1,111 +1,395 @@
-<h1 align="center">Hi 👋, I'm Santhosh Kannan</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 MCA Student | ☁️ Cloud & AI Enthusiast</h3>
+# <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Santhosh%20Kannan&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C3073F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+React+%7C+PostgreSQL;AWS+%7C+Linux+%7C+Docker;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MCA+Student+%40+Marian+College;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Django+%7C+PostgreSQL;Building+Scalable+Digital+Products;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+
+![MCA](https://img.shields.io/badge/MCA-Marian%20College-7C3AED?style=for-the-badge)
+![BCA](https://img.shields.io/badge/BCA-Graduate-6366F1?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%2FML-Enthusiast-A855F7?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-4F46E5?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:santhoshkannan.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
+
+</p>
+
+</div>
+
+---
+
+# About Me
+
+I am an **MCA student, Full Stack Developer, and AI enthusiast** passionate about building scalable digital products that solve real-world problems.
+
+My expertise spans across **Software Engineering, Full Stack Development, Artificial Intelligence, Mobile Applications, Cloud Technologies, and Database Systems**. I enjoy designing systems that combine clean architecture, excellent user experience, and reliable backend infrastructure.
+
+With hands-on experience in **React, Django, React Native, PostgreSQL, Machine Learning, and AWS**, I continuously explore emerging technologies and best practices used in modern software engineering teams.
+
+### Open To
+
+* Software Engineering Internships
+* Full Stack Developer Roles
+* AI / Machine Learning Projects
+* Open Source Collaboration
+* Cloud & DevOps Learning Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,c,mysql"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,postgres,mongodb,mysql"/>
+
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# AI / ML Expertise
 
-🎓 MCA Student passionate about building modern web applications, cloud-based solutions, and AI-powered systems.
-
-💡 I enjoy developing full-stack applications using React, Django, Node.js, and PostgreSQL while continuously exploring cloud computing, DevOps, and emerging AI technologies.
-
-🌱 Currently focusing on:
-
-* Advanced Django & React Development
-* AWS Cloud Services
-* Docker & DevOps Fundamentals
-* AI Agents & Automation
-* System Design & Scalable Architectures
+| Domain                 | Proficiency  | Details                               |
+| ---------------------- | ------------ | ------------------------------------- |
+| Machine Learning       | Advanced     | Supervised & Unsupervised Learning    |
+| Predictive Analytics   | Intermediate | Agricultural Prediction Systems       |
+| Recommendation Systems | Intermediate | Personalized User Experiences         |
+| Data Analysis          | Intermediate | Python-Based Data Processing          |
+| AI Product Development | Intermediate | End-to-End AI Application Integration |
+| MLOps Fundamentals     | Beginner     | Model Deployment & Monitoring         |
 
 ---
 
-## 🚀 Tech Stack
+# Featured Projects
 
-### Frontend
+<details>
+<summary><b>🌾 NavaKrishi — AI Powered Smart Agriculture Platform</b></summary>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+### Overview
 
-### Backend
+A full-stack agriculture ecosystem connecting farmers and consumers while leveraging AI for crop recommendations and prediction.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+| Metric      | Details                                    |
+| ----------- | ------------------------------------------ |
+| Stack       | React, Django, PostgreSQL, Python, ML      |
+| Scale       | Multi-role Platform                        |
+| Performance | Optimized REST APIs                        |
+| Security    | JWT Authentication                         |
+| Impact      | Smart Agriculture Digitization             |
+| Repository  | https://github.com/yourusername/navakrishi |
 
-### Database
+#### Highlights
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+* Machine Learning powered crop prediction
+* Farmer-consumer marketplace
+* Role-based authentication
+* PostgreSQL-backed scalable architecture
+* REST API ecosystem
 
-### Cloud & DevOps
+</details>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+<details>
+<summary><b>🚌 NavaYatra — Smart KSRTC Travel Management System</b></summary>
 
----
+### Overview
 
-## 🌟 Featured Projects
+A mobile-first travel management system designed for bus search, booking, route planning, and passenger management.
 
-### 🖥️ NeXGeaR – Online PC Selling Store
+| Metric      | Details                                   |
+| ----------- | ----------------------------------------- |
+| Stack       | React Native, Django, PostgreSQL          |
+| Scale       | Multi-user Mobile Platform                |
+| Performance | Optimized Booking Workflows               |
+| Security    | Secure Authentication                     |
+| Impact      | Improved Travel Experience                |
+| Repository  | https://github.com/yourusername/navayatra |
 
-Full-stack e-commerce platform built with React, Django REST Framework, and PostgreSQL featuring authentication, admin dashboard, product management, and shopping cart.
+#### Highlights
 
-### 🚌 NavaYatra – Smart KSRTC Travel Management System
+* Mobile-first architecture
+* Real-time booking workflows
+* RESTful API ecosystem
+* Cross-platform deployment
+* Scalable database design
 
-Mobile-first travel management platform developed using React Native, Django, PostgreSQL, and Maps integration for smarter public transportation services.
+</details>
 
-### 🌱 NavaKrishi – Smart Agriculture Platform
+<details>
+<summary><b>🖥️ NeXGeaR — Gaming PC E-Commerce Platform</b></summary>
 
-IoT-powered smart farming solution integrating sensors, real-time monitoring, crop recommendations, and irrigation management.
+### Overview
 
-### 🤖 AI Agent Projects
+A complete e-commerce platform dedicated to gaming PCs and high-performance computer components.
 
-Exploring modern AI agents, automation workflows, and intelligent assistant systems using Python and latest AI frameworks.
+| Metric      | Details                                 |
+| ----------- | --------------------------------------- |
+| Stack       | React, Django, PostgreSQL               |
+| Scale       | Enterprise E-Commerce                   |
+| Performance | Optimized Product Catalog               |
+| Security    | Authentication & Authorization          |
+| Impact      | Complete Online Store                   |
+| Repository  | https://github.com/yourusername/nexgear |
 
----
+#### Highlights
 
-## 📊 GitHub Stats
+* Shopping cart & wishlist
+* Product catalog management
+* Admin dashboard
+* Secure user authentication
+* Responsive UI architecture
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshkannan007\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkannan007\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=santhoshkannan007\&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-✅ Secure a Software Development Internship
-
-✅ Contribute to Open Source
-
-✅ Master AWS & Cloud Technologies
-
-✅ Build Production-Ready AI Applications
-
-✅ Strengthen System Design & DevOps Skills
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/santhosh-kannan-a59363355/
-* 📧 Email: [santhoshkannan.dev@gmail.com](mailto:santhoshkannan.dev@gmail.com)
-* 🌐 Portfolio: Add your portfolio URL here
-* 🐙 GitHub: https://github.com/santhoshkannan007
+</details>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# Experience
+
+## Full Stack Developer
+
+**Academic & Personal Projects**
+
+**2024 — Present**
+
+Developing scalable web and mobile applications using modern software engineering practices.
+
+### Responsibilities
+
+* Designing RESTful APIs
+* Building React & React Native applications
+* Database schema design
+* Authentication & authorization implementation
+* AI feature integration
+* Deployment and version control
+
+### Skills
+
+`React` `Django` `Python` `PostgreSQL` `Machine Learning` `AWS`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition             | Details                                          |
+| ----------------------- | ------------------------------------------------ |
+| NPTEL Certification     | Introduction to Machine Learning (IIT Certified) |
+| Competitive Programming | Active LeetCode & HackerRank Problem Solver      |
+| Technical Event         | Participant - CodeWars Tekron 2.0                |
+| Full Stack Development  | Built Multiple Production-Grade Projects         |
+| Continuous Learning     | AWS, Linux, AI, Cloud Computing                  |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge\&logo=amazonaws)
+
+## Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Database%20Concepts-F80000?style=for-the-badge\&logo=oracle)
+
+## NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-7C3AED?style=for-the-badge)
+
+## Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge\&logo=cisco)
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge\&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - Cloud Architecture
+  - System Design
+  - DevOps Fundamentals
+
+Building:
+  - NavaKrishi
+  - NavaYatra
+  - NeXGeaR
+
+Exploring:
+  - Generative AI
+  - Agentic AI Systems
+  - AWS Cloud Services
+  - Scalable Backend Systems
+
+Open_To:
+  - Software Engineering Internships
+  - Full Stack Developer Roles
+  - Open Source Contributions
+  - AI/ML Opportunities
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:santhoshkannan.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Engineering scalable products, solving real-world problems, and continuously learning through innovation."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
