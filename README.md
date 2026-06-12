@@ -37,11 +37,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=santhoshkannan007&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/santhoshkannan007?style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/santhoshkannan007?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
 
 </p>
 
