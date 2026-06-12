@@ -132,7 +132,7 @@ A full-stack agriculture ecosystem connecting farmers and consumers while levera
 | Performance | Optimized REST APIs                        |
 | Security    | JWT Authentication                         |
 | Impact      | Smart Agriculture Digitization             |
-| Repository  | https://github.com/yourusername/navakrishi |
+| Repository  | https://github.com/santhoshkannan007navakrishi |
 
 #### Highlights
 
@@ -158,7 +158,7 @@ A mobile-first travel management system designed for bus search, booking, route 
 | Performance | Optimized Booking Workflows               |
 | Security    | Secure Authentication                     |
 | Impact      | Improved Travel Experience                |
-| Repository  | https://github.com/yourusername/navayatra |
+| Repository  | https://github.com/santhoshkannan007/navayatra |
 
 #### Highlights
 
@@ -184,7 +184,7 @@ A complete e-commerce platform dedicated to gaming PCs and high-performance comp
 | Performance | Optimized Product Catalog               |
 | Security    | Authentication & Authorization          |
 | Impact      | Complete Online Store                   |
-| Repository  | https://github.com/yourusername/nexgear |
+| Repository  | https://github.com/santhoshkannan007/nexgear |
 
 #### Highlights
 
@@ -317,7 +317,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan007&theme=tokyo-night"/>
 
 </p>
 
@@ -327,7 +327,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan007/santhoshkannan007/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
