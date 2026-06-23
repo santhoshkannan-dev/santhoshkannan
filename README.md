@@ -327,7 +327,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan007/santhoshkannan-dev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan-dev/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
