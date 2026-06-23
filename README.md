@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/santhoshkannan007">
+<a href="https://github.com/santhoshkannan-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -37,11 +37,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=santhoshkannan007&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=santhoshkannan-dev&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/santhoshkannan007?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/santhoshkannan-dev?style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/stars/santhoshkannan007?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/santhoshkannan-dev?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
 
 </p>
 
@@ -132,7 +132,7 @@ A full-stack agriculture ecosystem connecting farmers and consumers while levera
 | Performance | Optimized REST APIs                        |
 | Security    | JWT Authentication                         |
 | Impact      | Smart Agriculture Digitization             |
-| Repository  | https://github.com/santhoshkannan007navakrishi |
+| Repository  | https://github.com/santhoshkannan-dev/navakrishi |
 
 #### Highlights
 
@@ -158,7 +158,7 @@ A mobile-first travel management system designed for bus search, booking, route 
 | Performance | Optimized Booking Workflows               |
 | Security    | Secure Authentication                     |
 | Impact      | Improved Travel Experience                |
-| Repository  | https://github.com/santhoshkannan007/navayatra |
+| Repository  | https://github.com/santhoshkannan-dev/navayatra |
 
 #### Highlights
 
@@ -184,7 +184,7 @@ A complete e-commerce platform dedicated to gaming PCs and high-performance comp
 | Performance | Optimized Product Catalog               |
 | Security    | Authentication & Authorization          |
 | Impact      | Complete Online Store                   |
-| Repository  | https://github.com/santhoshkannan007/nexgear |
+| Repository  | https://github.com/santhoshkannan-dev/nexgear |
 
 #### Highlights
 
@@ -289,15 +289,15 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkannan007&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkannan-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkannan007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkannan-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
