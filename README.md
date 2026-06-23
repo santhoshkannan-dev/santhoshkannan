@@ -307,7 +307,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan007&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan-dev&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
@@ -317,7 +317,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan007&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan-dev&theme=tokyo-night"/>
 
 </p>
 
@@ -327,7 +327,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan007/santhoshkannan007/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan007/santhoshkannan-dev/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -370,15 +370,15 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/santhosh-kannan-a59363355/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/santhoshkannan-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://santhoshkannan.codes">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
 </a>
 
