@@ -17,11 +17,11 @@
 
 <p align="center">
 
-<a href="https://yourportfolio.com">
+<a href="https://santhoshkannan.codes">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/santhosh-kannan-a59363355">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -307,7 +307,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan-dev&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -327,7 +327,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan-dev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -370,7 +370,7 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/santhosh-kannan-a59363355/">
+<a href="https://linkedin.com/in/santhosh-kannan-a59363355">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
