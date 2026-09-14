@@ -337,7 +337,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/kannan-contribution.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/kannan-identity.svg" width="100%"/>
 
 </p>
 
