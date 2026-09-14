@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Santhosh%20Kannan&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
@@ -8,10 +8,10 @@
 
 <p align="center">
 
-![MCA](https://img.shields.io/badge/MCA-Marian%20College-7C3AED?style=for-the-badge)
-![BCA](https://img.shields.io/badge/BCA-Graduate-6366F1?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%2FML-Enthusiast-A855F7?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-4F46E5?style=for-the-badge)
+<img src="https://img.shields.io/badge/MCA-Marian%20College-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BCA-Graduate-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-4F46E5?style=for-the-badge"/>
 
 </p>
 
@@ -22,15 +22,15 @@
 </a>
 
 <a href="https://linkedin.com/in/santhosh-kannan-a59363355">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:santhoshkannan.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/santhoshkannan-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -59,11 +59,11 @@ With hands-on experience in **React, Django, React Native, PostgreSQL, Machine L
 
 ### Open To
 
-* Software Engineering Internships
-* Full Stack Developer Roles
-* AI / Machine Learning Projects
-* Open Source Collaboration
-* Cloud & DevOps Learning Opportunities
+- Software Engineering Internships
+- Full Stack Developer Roles
+- AI / Machine Learning Projects
+- Open Source Collaboration
+- Cloud & DevOps Learning Opportunities
 
 ---
 
@@ -105,14 +105,14 @@ With hands-on experience in **React, Django, React Native, PostgreSQL, Machine L
 
 # AI / ML Expertise
 
-| Domain                 | Proficiency  | Details                               |
-| ---------------------- | ------------ | ------------------------------------- |
-| Machine Learning       | Advanced     | Supervised & Unsupervised Learning    |
-| Predictive Analytics   | Intermediate | Agricultural Prediction Systems       |
-| Recommendation Systems | Intermediate | Personalized User Experiences         |
-| Data Analysis          | Intermediate | Python-Based Data Processing          |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning |
+| Predictive Analytics | Intermediate | Agricultural Prediction Systems |
+| Recommendation Systems | Intermediate | Personalized User Experiences |
+| Data Analysis | Intermediate | Python-Based Data Processing |
 | AI Product Development | Intermediate | End-to-End AI Application Integration |
-| MLOps Fundamentals     | Beginner     | Model Deployment & Monitoring         |
+| MLOps Fundamentals | Beginner | Model Deployment & Monitoring |
 
 ---
 
@@ -125,22 +125,22 @@ With hands-on experience in **React, Django, React Native, PostgreSQL, Machine L
 
 A full-stack agriculture ecosystem connecting farmers and consumers while leveraging AI for crop recommendations and prediction.
 
-| Metric      | Details                                    |
-| ----------- | ------------------------------------------ |
-| Stack       | React, Django, PostgreSQL, Python, ML      |
-| Scale       | Multi-role Platform                        |
-| Performance | Optimized REST APIs                        |
-| Security    | JWT Authentication                         |
-| Impact      | Smart Agriculture Digitization             |
-| Repository  | https://github.com/santhoshkannan-dev/navakrishi |
+| Metric | Details |
+|---|---|
+| Stack | React, Django, PostgreSQL, Python, ML |
+| Scale | Multi-role Platform |
+| Performance | Optimized REST APIs |
+| Security | JWT Authentication |
+| Impact | Smart Agriculture Digitization |
+| Repository | [View Repository](https://github.com/santhoshkannan-dev/navakrishi) |
 
-#### Highlights
+### Highlights
 
-* Machine Learning powered crop prediction
-* Farmer-consumer marketplace
-* Role-based authentication
-* PostgreSQL-backed scalable architecture
-* REST API ecosystem
+- Machine Learning powered crop prediction
+- Farmer-consumer marketplace
+- Role-based authentication
+- PostgreSQL-backed scalable architecture
+- REST API ecosystem
 
 </details>
 
@@ -151,22 +151,22 @@ A full-stack agriculture ecosystem connecting farmers and consumers while levera
 
 A mobile-first travel management system designed for bus search, booking, route planning, and passenger management.
 
-| Metric      | Details                                   |
-| ----------- | ----------------------------------------- |
-| Stack       | React Native, Django, PostgreSQL          |
-| Scale       | Multi-user Mobile Platform                |
-| Performance | Optimized Booking Workflows               |
-| Security    | Secure Authentication                     |
-| Impact      | Improved Travel Experience                |
-| Repository  | https://github.com/santhoshkannan-dev/navayatra |
+| Metric | Details |
+|---|---|
+| Stack | React Native, Django, PostgreSQL |
+| Scale | Multi-user Mobile Platform |
+| Performance | Optimized Booking Workflows |
+| Security | Secure Authentication |
+| Impact | Improved Travel Experience |
+| Repository | [View Repository](https://github.com/santhoshkannan-dev/navayatra) |
 
-#### Highlights
+### Highlights
 
-* Mobile-first architecture
-* Real-time booking workflows
-* RESTful API ecosystem
-* Cross-platform deployment
-* Scalable database design
+- Mobile-first architecture
+- Real-time booking workflows
+- RESTful API ecosystem
+- Cross-platform deployment
+- Scalable database design
 
 </details>
 
@@ -177,22 +177,22 @@ A mobile-first travel management system designed for bus search, booking, route 
 
 A complete e-commerce platform dedicated to gaming PCs and high-performance computer components.
 
-| Metric      | Details                                 |
-| ----------- | --------------------------------------- |
-| Stack       | React, Django, PostgreSQL               |
-| Scale       | Enterprise E-Commerce                   |
-| Performance | Optimized Product Catalog               |
-| Security    | Authentication & Authorization          |
-| Impact      | Complete Online Store                   |
-| Repository  | https://github.com/santhoshkannan-dev/nexgear |
+| Metric | Details |
+|---|---|
+| Stack | React, Django, PostgreSQL |
+| Scale | Enterprise E-Commerce |
+| Performance | Optimized Product Catalog |
+| Security | Authentication & Authorization |
+| Impact | Complete Online Store |
+| Repository | [View Repository](https://github.com/santhoshkannan-dev/nexgear) |
 
-#### Highlights
+### Highlights
 
-* Shopping cart & wishlist
-* Product catalog management
-* Admin dashboard
-* Secure user authentication
-* Responsive UI architecture
+- Shopping cart & wishlist
+- Product catalog management
+- Admin dashboard
+- Secure user authentication
+- Responsive UI architecture
 
 </details>
 
@@ -210,12 +210,12 @@ Developing scalable web and mobile applications using modern software engineerin
 
 ### Responsibilities
 
-* Designing RESTful APIs
-* Building React & React Native applications
-* Database schema design
-* Authentication & authorization implementation
-* AI feature integration
-* Deployment and version control
+- Designing RESTful APIs
+- Building React & React Native applications
+- Database schema design
+- Authentication & authorization implementation
+- AI feature integration
+- Deployment and version control
 
 ### Skills
 
@@ -227,13 +227,13 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <div align="center">
 
-| Recognition             | Details                                          |
-| ----------------------- | ------------------------------------------------ |
-| NPTEL Certification     | Introduction to Machine Learning (IIT Certified) |
-| Competitive Programming | Active LeetCode & HackerRank Problem Solver      |
-| Technical Event         | Participant - CodeWars Tekron 2.0                |
-| Full Stack Development  | Built Multiple Production-Grade Projects         |
-| Continuous Learning     | AWS, Linux, AI, Cloud Computing                  |
+| Recognition | Details |
+|---|---|
+| NPTEL Certification | Introduction to Machine Learning (IIT Certified) |
+| Competitive Programming | Active LeetCode & HackerRank Problem Solver |
+| Technical Event | Participant - CodeWars Tekron 2.0 |
+| Full Stack Development | Built Multiple Production-Grade Projects |
+| Continuous Learning | AWS, Linux, AI, Cloud Computing |
 
 </div>
 
@@ -243,21 +243,21 @@ Developing scalable web and mobile applications using modern software engineerin
 
 ## AWS
 
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge\&logo=amazonaws)
+<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ## Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Concepts-F80000?style=for-the-badge\&logo=oracle)
+<img src="https://img.shields.io/badge/Oracle-Database%20Concepts-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ## NPTEL
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-7C3AED?style=for-the-badge)
+<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-7C3AED?style=for-the-badge"/>
 
 ## Cisco
 
-![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge\&logo=cisco)
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge\&logo=cisco)
+<img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
 
@@ -265,20 +265,20 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
@@ -289,7 +289,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkannan-dev&theme=tokyonight&hide_border=true"/>
 
@@ -307,7 +307,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </p>
 
@@ -317,7 +317,17 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan-dev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# KANNAN Contribution Identity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan-dev/main/assets/kannan-contribution.svg" width="100%"/>
 
 </p>
 
@@ -327,7 +337,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan-dev/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -358,38 +368,3 @@ Open_To:
   - Full Stack Developer Roles
   - Open Source Contributions
   - AI/ML Opportunities
-```
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="mailto:santhoshkannan.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/santhosh-kannan-a59363355">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/santhoshkannan-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://santhoshkannan.codes">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-*"Engineering scalable products, solving real-world problems, and continuously learning through innovation."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
