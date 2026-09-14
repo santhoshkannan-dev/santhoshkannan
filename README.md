@@ -317,13 +317,23 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkannan-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/39d353/santhoshkannan-dev" alt="santhoshkannan-dev's Contribution Activity" width="100%"/>
 
 </p>
 
 ---
 
-# SANTHOSH KANNAN Contribution Identity
+# SANTHOSH Contribution Identity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/santhosh-contribution.svg" width="100%"/>
+
+</p>
+
+---
+
+# KANNAN Contribution Identity
 
 <p align="center">
 
