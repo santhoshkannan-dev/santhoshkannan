@@ -289,15 +289,15 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=santhoshkannan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkannan-dev&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=santhoshkannan-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkannan-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santhoshkannan-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -307,7 +307,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshkannan-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/trophies.svg" width="100%"/>
 
 </p>
 
@@ -327,7 +327,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/santhosh-contribution.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/santhosh-contribution.svg?v=3" width="100%"/>
 
 </p>
 
@@ -337,7 +337,7 @@ Developing scalable web and mobile applications using modern software engineerin
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/kannan-identity.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/santhoshkannan-dev/santhoshkannan/main/assets/kannan-identity.svg?v=3" width="100%"/>
 
 </p>
 

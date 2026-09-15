@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 115" width="100%" height="auto">
+<style>
+@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+.trophy-card:hover { animation: bounce 0.6s ease; }
+.title { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; font-size: 10px; font-weight: 600; fill: #70a5fd; text-anchor: middle; }
+.rank { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; font-size: 13px; font-weight: 800; text-anchor: middle; }
+.desc { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; font-size: 8.5px; font-weight: 500; fill: #38bdae; text-anchor: middle; }
+</style>
+<g class="trophy-card">
+<rect x="5" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="57.5" y="23" class="title">Multi Language</text>
+<circle cx="57.5" cy="50" r="19" fill="#161b22" stroke="#00ffb3" stroke-width="1.8"/>
+<g transform="translate(47.5, 40) scale(0.85)" fill="none" stroke="#00ffb3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 17l6-6-6-6m8 12h8"/>
+</g>
+<rect x="44.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#00ffb3" stroke-width="1"/>
+<text x="57.5" y="85" class="rank" fill="#00ffb3">A</text>
+<text x="57.5" y="101" class="desc">5+ Languages</text>
+</g>
+<g class="trophy-card">
+<rect x="120" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="172.5" y="23" class="title">Repositories</text>
+<circle cx="172.5" cy="50" r="19" fill="#161b22" stroke="#00ffb3" stroke-width="1.8"/>
+<g transform="translate(162.5, 40) scale(0.85)" fill="none" stroke="#00ffb3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 19.5A2.5 2.5 0 0 0 6.5 22H20V2H6.5A2.5 2.5 0 0 0 4 4.5v15z"/>
+</g>
+<rect x="159.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#00ffb3" stroke-width="1"/>
+<text x="172.5" y="85" class="rank" fill="#00ffb3">A</text>
+<text x="172.5" y="101" class="desc">47 Repositories</text>
+</g>
+<g class="trophy-card">
+<rect x="235" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="287.5" y="23" class="title">Commits</text>
+<circle cx="287.5" cy="50" r="19" fill="#161b22" stroke="#70a5fd" stroke-width="1.8"/>
+<g transform="translate(277.5, 40) scale(0.85)" fill="none" stroke="#70a5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8zm1-13h-2v6l5.25 3.15.75-1.23-4.5-2.67z"/>
+</g>
+<rect x="274.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#70a5fd" stroke-width="1"/>
+<text x="287.5" y="85" class="rank" fill="#70a5fd">B</text>
+<text x="287.5" y="101" class="desc">Active Committer</text>
+</g>
+<g class="trophy-card">
+<rect x="350" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="402.5" y="23" class="title">Experience</text>
+<circle cx="402.5" cy="50" r="19" fill="#161b22" stroke="#70a5fd" stroke-width="1.8"/>
+<g transform="translate(392.5, 40) scale(0.85)" fill="none" stroke="#70a5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M19 4h-1V2h-2v2H8V2H6v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 16H5V10h14v10z"/>
+</g>
+<rect x="389.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#70a5fd" stroke-width="1"/>
+<text x="402.5" y="85" class="rank" fill="#70a5fd">B</text>
+<text x="402.5" y="101" class="desc">2+ Years</text>
+</g>
+<g class="trophy-card">
+<rect x="465" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="517.5" y="23" class="title">Stars</text>
+<circle cx="517.5" cy="50" r="19" fill="#161b22" stroke="#ffb86c" stroke-width="1.8"/>
+<g transform="translate(507.5, 40) scale(0.85)" fill="none" stroke="#ffb86c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+</g>
+<rect x="504.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#ffb86c" stroke-width="1"/>
+<text x="517.5" y="85" class="rank" fill="#ffb86c">C</text>
+<text x="517.5" y="101" class="desc">Owner Stars</text>
+</g>
+<g class="trophy-card">
+<rect x="580" y="5" width="105" height="105" rx="8" fill="#1a1b27" stroke="#30363d" stroke-width="1.2"/>
+<text x="632.5" y="23" class="title">Followers</text>
+<circle cx="632.5" cy="50" r="19" fill="#161b22" stroke="#ffb86c" stroke-width="1.8"/>
+<g transform="translate(622.5, 40) scale(0.85)" fill="none" stroke="#ffb86c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm10 10v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
+</g>
+<rect x="619.5" y="73" width="26" height="15" rx="3" fill="#0d1117" stroke="#ffb86c" stroke-width="1"/>
+<text x="632.5" y="85" class="rank" fill="#ffb86c">C</text>
+<text x="632.5" y="101" class="desc">3 Followers</text>
+</g>
+</svg>
